@@ -1,2 +1,3 @@
 Git modify file7 one
 Git modify file7 two
+Git modify file7 three
