@@ -6,4 +6,4 @@ Git is modify five.
 Git is modify six.
 Git is modify seven.
 Git is modify asdf.
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
