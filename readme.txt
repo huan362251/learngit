@@ -7,3 +7,6 @@ Git is modify six.
 Git is modify seven.
 Git is modify asdf.
 Creating a new branch is quick and simple.
+git commit readme leargit
+git commit readme learngit one.
+git commit readme learngit two.
