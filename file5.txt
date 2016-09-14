@@ -1,2 +1,3 @@
 git modify file5 one.
 git modify file5 two.
+git modify file5 three.
