@@ -1,1 +1,2 @@
 Git modify file6 one
+Git modify file6 two
