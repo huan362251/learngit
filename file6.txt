@@ -1,3 +1,4 @@
 Git modify file6 one
 Git modify file6 two
 Git modify file6 three
+Git modify file6 four
